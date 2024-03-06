@@ -50,7 +50,7 @@ const CampSite = ({
 
 const Camp = () => {
   return (
-    <section className='relative flex flex-col 2xl:max-container py-10 lg:py-20 lg:mb-10 xl:mb-20'>
+    <section className='relative flex flex-col 2xl:max-container py-10 lg:py-20 lg:mb-2 xl:mb-6'>
       <div className='flex h-[340px] lg:h-[400px] xl:h-[640px] hide-scrollbar w-full items-start justify-start gap-8 overflow-x-auto'>
         <CampSite
           backgroundImage='bg-bg-img-2'
