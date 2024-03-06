@@ -45,7 +45,7 @@ const Hero = () => {
           <Button type='button' title='Download App' variant='btn_green' />
           <Button
             type='button'
-            title='How we work'
+            title='How we work?'
             icon='/play.svg'
             variant='btn_white_text'
           />
